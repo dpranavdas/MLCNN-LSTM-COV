@@ -1,0 +1,1 @@
+It includes the Python code for evaluating the co-occurrence detection rates of the following models: Inceptionv3-LSTM-COV, MLCNN-COV, Inceptionv3, MobileNetv2, DenseNet201, VGG19, Xception, CNN-BLSTM, and MLCNN-LSTM-COV.
