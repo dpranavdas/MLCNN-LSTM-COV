@@ -1,1 +1,5 @@
+This file consists of two sub-files:
+1. The first file, * Multi-Label Representation of Adverse Covid Drug Reactions.csv *, contains a multi-label dataset of 17 drug samples and 29 adverse COVID drug reactions. Each row represents a drug, identified by its PubChem_ID, along with corresponding adverse reactions. The binary values in this file indicate '1' for the presence of an adverse reaction and '0' for its absence. The column names represent specific adverse reactions: 
+- 0: Abdominal Cramps, 1: Abdominal Pain, 2: Asthma Attack, 3: Blood Pressure Increased, 4: Changes in Taste, 5: Chills, 6: Constipation, 7: Decreased Appetite, 8: Diarrhea, 9: Dizziness, 10: Drowsiness, 11: Fever, 12: Headache, 13: Heartburn, 14: Irregular Heartbeat, 15: Liver Function Test Abnormal, 16: Muscle Pain, 17: Nausea, 18: Rash, 19: Seizures, 20: Sore Mouth, 21: Sweating, 22: Swelling, 23: Stomach Upset, 24: Tired and Heavy, 25: Trouble Breathing, 26: Trouble Sleeping, 27: Vomiting, and 28: Weakness.  
+2. The second file, *Conformer*, contains the chemical conformers of the 17 drugs, named according to their PubChem_ID.
 
